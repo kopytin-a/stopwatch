@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Проект "Секундомер".  
+:white_check_mark: Проект реализован на VUE Options API.  
+:white_check_mark: Основные возможности:  
+  - запуск, остановка и сброс секундомера;  
+  - добавление дополнительных секундомеров;  
+  - удаление секундомера (один секундомер должен остаться, удалить его нельзя);  
+:white_check_mark: Адаптивная верстка.
